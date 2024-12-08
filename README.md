@@ -4,7 +4,7 @@
   <img src="https://github.com/yourusername/yourusername/blob/main/assets/header.gif" alt="Header" width="100%">
 </div>
 
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi 👋, I'm [Maria Islam Shuchona]</h1>
 <h3 align="center">A passionate developer who loves to create</h3>
 
 <p align="center">
