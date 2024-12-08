@@ -1,4 +1,4 @@
-# GitHub Portfolio README.md
+# README
 
 <div align="center">
   <img src="https://github.com/yourusername/yourusername/blob/main/assets/header.gif" alt="Header" width="100%">
